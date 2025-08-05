@@ -1,4 +1,4 @@
-# Mre_des_tools
+# Mre_miniz_tools
 App demonstrate how to zip/unzip files. Zip file size limited by phone memory.
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
