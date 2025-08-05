@@ -1,0 +1,7 @@
+; mre_miniz_tools.def : Declares the module parameters for the DLL.
+
+LIBRARY      "mre_miniz_tools"
+DESCRIPTION  'mre_miniz_tools Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
